@@ -1,0 +1,25 @@
+{
+  "name": "rndmzr",
+  "version": "1.0.0",
+  "description": "A random data generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alechash/rndmzr.git"
+  },
+  "keywords": [
+    "data",
+    "random",
+    "random-generation",
+    "random-number"
+  ],
+  "author": "Alec Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alechash/rndmzr/issues"
+  },
+  "homepage": "https://github.com/alechash/rndmzr#readme"
+}
